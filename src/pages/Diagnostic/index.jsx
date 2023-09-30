@@ -141,7 +141,7 @@ const Transactions = () => {
   const [afficheT4,setAfficheT4]=useState(true);
   const [afficheCH5,setAfficheCH5]=useState(false);
   const [afficheT5,setAfficheT5]=useState(true);
-  const display1=()=>{
+  const display1=()=>{ 
     setAfficheCH(!afficheCH);
    setAfficheT(!afficheT);
   }
