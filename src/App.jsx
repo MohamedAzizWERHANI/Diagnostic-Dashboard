@@ -9,7 +9,7 @@ import Header from "./components/Layout/Header"
 import Footer from "./components/Layout/Footer"
 import SideBarContainer from "./components/Layout/SideBarContainer"
 import Diagnostic from "./pages/Diagnostic";
-function App() {
+function App() {  
   library.add(fas)
   
 
